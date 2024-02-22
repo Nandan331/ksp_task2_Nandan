@@ -1,0 +1,65 @@
+.H{
+    display: flex;
+   justify-content: center;
+}
+#Happy{
+    border: 2px solid black;
+    border-radius: 50%;
+    padding: 3rem;
+    background-color: rgb(219, 219, 138);
+    text-align: center;
+}
+#dec::before{
+    content: "\00BB";
+}
+.Table{
+    display: flex;
+    justify-content: center;
+}
+table{
+    border: solid black 2px;
+}
+.List{
+    display: flex;
+    justify-content: center;
+}
+#P{
+    border: solid black 1px; 
+}
+#T{
+    border: solid black 1px;
+}
+#D{
+    border: solid black 1px;
+}
+#D2{
+    border: solid black 1px;
+}
+#Same{
+    border: solid black 1px;
+}
+.I{
+    display: flex;
+    justify-content: center;
+}
+img{
+    justify-content: center;
+}
+img:hover{
+    opacity: 70%;
+    cursor: pointer;
+}
+ol{
+    margin: 0%;
+}
+h4{
+    margin: 0%;
+}
+#Beach{
+    text-align: center;
+}
+.Vdo{
+    display: flex;
+    justify-content: center;
+}
+
